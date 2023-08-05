@@ -1,0 +1,7 @@
+.carousel-container {
+  max-width: 600px; /* Set the maximum width of the carousel */
+  margin: 0 auto; /* Center the carousel */
+  margin-top: 50px;
+}
+
+/* Add any additional styling as needed */
